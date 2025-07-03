@@ -2530,6 +2530,7 @@ select:focus {
 
 .img-programacao{
     width: 100px;
+    margin-top: -15px;
 }
 
 .collapse:not(.show) {
